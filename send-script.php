@@ -1,5 +1,5 @@
 <?php
-$mailToSend = 'moszczynski.luk@gmail.com';
+$mailToSend = 'lukomilm@interia.pl';
 if ( $_SERVER['REQUEST_METHOD'] === 'POST' ) {
 	$name       = $_POST['name'];
 	$email      = $_POST['email'];
